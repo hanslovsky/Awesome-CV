@@ -132,10 +132,10 @@
 \definecolor{red}{HTML}{FB4485}
 \definecolor{blue}{HTML}{6CE0F1}
 % Text colors
-\definecolor{darktext}{HTML}{414141}
-\colorlet{text}{darkgray}
-\colorlet{graytext}{gray}
-\colorlet{lighttext}{lightgray}
+\definecolor{darktext}{HTML}{000000}
+\colorlet{text}{darktext}
+\colorlet{graytext}{darktext}
+\colorlet{lighttext}{darktext}
 % Awesome colors
 \definecolor{awesome-emerald}{HTML}{00A388}
 \definecolor{awesome-skyblue}{HTML}{0395DE}
